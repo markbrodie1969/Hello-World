@@ -1,0 +1,1 @@
+mvn archetype:generate -DgroupId=com.codeandword -DartifactId=HelloWorld -DarchetypeArtifactId=maven-archetype-quickstart -DarchetypeVersion=1.4 -DinteractiveMode=false
